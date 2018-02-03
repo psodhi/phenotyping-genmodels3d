@@ -1,0 +1,6 @@
+stem_diameter 2.09729
+leaf_angle 38.0752
+leaf_length 67.7832
+stem_internode_len 10.1068
+leaf_rotate_angle 3.80495
+leaf_width 6.53842
